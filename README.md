@@ -1,4 +1,4 @@
-# firstprojectongithub
+#PizzaSalesAnalysis
 End-to-end pizza sales analysis using SQL &amp; Excel. From raw data to interactive dashboards, uncover trends, top products, and peak hours—turning numbers into strategies that boost sales, optimize menus, and drive smarter business decisions.
 This project analyzes pizza sales data using SQL and Excel to uncover business insights that can help improve sales, marketing, and operations. From raw data to dashboards, the goal was to transform numbers into actionable strategies.
 
